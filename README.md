@@ -28,6 +28,6 @@ Please report suggestions and issues:
 
 Email: alba@caltech.edu
 
-Project Link: [[https://github.com/absrp/passing_probabilities_EQgates](https://github.com/absrp/EQgates_recurrence](https://github.com/absrp/EQgates_recurrence/)/)(https://github.com/absrp/EQgates_recurrence/)
+Project Link: [https://github.com/absrp/EQgates_recurrence](https://github.com/absrp/EQgates_recurrence/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
