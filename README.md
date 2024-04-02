@@ -9,7 +9,7 @@ Propagating earthquakes must overcome geometrical complexity on fault networks t
 ## Data access
 The data required to run this Notebook are stored in the csv file "aEQgate_geometry.csv", included in this repository. 
 
-### Prerequisites for running the scripts
+## Prerequisites for running the scripts
 
 All Python packages required to run this Notebook are included in the yaml file included. To create a conda environment to run this Notebook in: 
 
