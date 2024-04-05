@@ -9,9 +9,9 @@ Propagating earthquakes must overcome geometrical complexity on fault networks t
 ## Data access
 The data required to run this Notebook are stored in the csv file "aEQgate_geometry.csv", included in this repository. 
 
-## Prerequisites for running the scripts
+## Creating the environment to run the Notebook
 
-All Python packages required to run this Notebook are included in the yaml file included. To create a conda environment to run this Notebook in: 
+All Python packages required to run this Notebook are set-up in the yaml file included. To create a conda environment to run this Notebook: 
 
 In your terminal, in the directory where you wish to make the environment and run the code:
 
@@ -19,7 +19,10 @@ In your terminal, in the directory where you wish to make the environment and ru
 conda env create -f EQgates_environment.yml
 ```
 
+## Running the notebook 
+The Notebook is titled "probabilities_EQgates.ipynb" and requires the environment to have been set-up and the csv file "EQgate_geometry.csv" to be in the same directory.
 All functions called in the Notebook are stored in the function_file.py script, also included in this repository. 
+
 
 <!-- CONTACT -->
 ## Contact
